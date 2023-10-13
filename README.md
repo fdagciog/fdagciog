@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Furkan</h1>
-<h3 align="center">A passionate backend developer from Turkey</h3>
+<h3 align="center">A passionate computer engineer from Turkey</h3>
 <p>Hello, I'm Furkan Dağcıoğlu, a passionate engineer in the field of software development. I focus on continuously improving and making contributions by effectively applying the knowledge and experience I gained during my postgraduate studies. I am always eager to learn and adapt to new technologies, which keeps me up-to-date. I take pleasure in working in team collaborations due to my inclination for teamwork, which has enhanced my ability to work cooperatively and manage projects more efficiently.</p>
 
 - 🔭 I’m currently studying at **Ahmet Yesevi University**
