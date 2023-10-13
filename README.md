@@ -12,7 +12,7 @@
 <p align="left">
 <a href="https://linkedin.com/in/furkandagcioglu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="furkandagcioglu" height="30" width="40" /></a>
 <a href="https://instagram.com/furkandagcioglu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="furkandagcioglu" height="30" width="40" /></a>
-<a href="https://discord.gg/sidestep1233" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="sidestep1233" height="30" width="40" /> You can connect me on discord--> sidestep1233</a>
+<a target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="sidestep1233" height="30" width="40" /> You can connect me on discord--> sidestep1233</a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
